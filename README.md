@@ -1,5 +1,5 @@
 # m3-query
-Web interface for search and retrieval of video annotations
+Web interface for search and retrieval of video annotations. Analagous to the standalone java app [vars-query](https://github.com/mbari-media-management/vars-query).
 
 ## Overview
 
