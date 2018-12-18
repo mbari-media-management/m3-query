@@ -3,7 +3,7 @@ Web interface for search and retrieval of video annotations. Analagous to the st
 
 ## Overview
 
-We are currently in the use-case and requirements gathering phase of this project. Use cases, requirements, and user stories should be submitted under [Issues](https://github.com/mbari-media-management/m3-query/issues)
+We are currently in the use-case and requirements gathering phase of this project. __Use cases, requirements, and user stories should be submitted under [Issues](https://github.com/mbari-media-management/m3-query/issues)__
 
 1. __Requirements__: What the system should do.
 2. __Use cases__: A textual description that captures user/system interaction
